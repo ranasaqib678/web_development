@@ -1,0 +1,29 @@
+.box{
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+}
+.flex-container{
+    
+    display: flex;
+
+    
+    justify-content: center;
+    
+    flex-wrap: wrap;
+    gap: 10px;
+flex: 0 1 300px;
+
+}
+.box3{
+    background-color: yellowgreen;
+    align-self: flex-start;
+    align-content: end;
+    
+    
+
+}
+.box7{
+    align-content: end;
+}  
