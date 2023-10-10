@@ -1,0 +1,9 @@
+.flex-container > div {
+    background-color: green;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 5oopx;
+    font-size: 300px;
+    flex: auto;
+  }
