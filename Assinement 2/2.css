@@ -1,9 +1,43 @@
-.flex-container > div {
-    background-color: green;
-    width: 100px;
-    margin: 10px;
-    text-align: center;
-    line-height: 5oopx;
-    font-size: 300px;
-    flex: auto;
-  }
+
+.flex-container {
+  display: flex;
+  background-color: rgb(160, 57, 126);
+  width: auto;
+  height: 200px;
+  
+}
+
+
+
+
+
+.flex-container2 {
+  display: flex;
+  background-color:greenyellow;
+  width: 180px;
+  height: 400px;
+  
+  
+  
+  
+  
+
+}
+
+
+
+
+
+.flex-container3 {
+  display: flex;
+  background-color: yellow;
+  margin-left: 180px;
+  margin-top: -400px;
+  height: 400px;
+  
+
+
+}
+
+
+
